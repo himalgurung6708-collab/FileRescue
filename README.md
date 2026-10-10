@@ -1,4 +1,5 @@
 #FileRescue
+
 A simple Python project to help make messy folders easier to understand.
 Have you ever opened a folder and found so many files that it became difficult to find what you needed? 
 That's the problem I wanted to work on with FileRescue.
